@@ -1,9 +1,11 @@
 # OpenAI Telegram
 
-A minimal, lightweight and simple telegram bot built with chatgpt API from [OpenAI](https://openai.com/) and [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot).
+A minimal, lightweight and simple telegram bot built with chatgpt API from [OpenAI](https://openai.com/) and [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot). It can genrate text messages and images and can be used both personally or inside a group!
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
+
+![openai-telegram](https://socialify.git.ci/SharafatKarim/openai-telegram/image?description=1&forks=1&issues=1&language=1&name=1&pulls=1&stargazers=1&theme=Light)
 
 ## Environment Variables
 
@@ -50,8 +52,6 @@ Run the bot
 This bot can deployed to web services like railway or heroku or any vps. For vps follow the above guide. Railway should work out of the box. Just fork this repository, fill up environment variables. As simple as that!
 
 ## Screenshots
-
-Coming soon!
 
 
 ## Authors

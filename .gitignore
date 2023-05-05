@@ -1,0 +1,7 @@
+__pycache__
+/__pycache__
+/.venv
+notes.txt
+.env
+logfile.log
+venv/
