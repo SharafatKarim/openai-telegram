@@ -1,0 +1,5 @@
+openai
+numpy
+python-telegram-bot
+python-dotenv
+pymongo
