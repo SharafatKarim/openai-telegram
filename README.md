@@ -7,6 +7,9 @@ A minimal, lightweight and simple telegram bot built with chatgpt API from [Open
 
 ![openai-telegram](https://socialify.git.ci/SharafatKarim/openai-telegram/image?description=1&forks=1&issues=1&language=1&name=1&pulls=1&stargazers=1&theme=Light)
 
+> This project is also available with Telegraf library in Node.js (both servered or, serverless).
+> - [openai-telegram-bot](https://github.com/sr-tamim/openai-telegram-bot/)
+
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
