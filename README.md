@@ -52,7 +52,8 @@ Run the bot
 This bot can deployed to web services like railway or heroku or any vps. For vps follow the above guide. Railway should work out of the box. Just fork this repository, fill up environment variables. As simple as that!
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/93897936/236427483-b48286dc-1065-4eeb-9835-36b8076e82f1.png)
+![image](https://user-images.githubusercontent.com/93897936/236427776-4a7f9333-3808-43c6-b2cc-25f421c01f98.png)
+
 ![image](https://user-images.githubusercontent.com/93897936/236427105-698b18ab-7071-4060-ba1c-2459951203d4.png)
 
 ## Authors
