@@ -1,6 +1,10 @@
-# OpenAI Telegram
+# OpenAI Telegram Bot
 
 A minimal, lightweight and simple telegram bot built with chatgpt API from [OpenAI](https://openai.com/) and [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot). It can genrate text messages and images and can be used both personally or inside a group!
+
+**API used**
+- OpenAI GPT-3.5 for chat response
+- DALL-E for image response
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
